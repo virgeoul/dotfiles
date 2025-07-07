@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = virgile.mathieu03@gmail.com
+	name = virgile mathieu
